@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grnoa.github.io/EoZ/sitemap.EoZ.gz
